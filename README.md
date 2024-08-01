@@ -1,2 +1,3 @@
 # Credit-Card-Fraudulent-Activity-Predictor
-A predictive model using various techniques to predict fraudulent credit card activities
+A predictive model using various techniques to predict fraudulent credit card activities on an imbalanced data
+
